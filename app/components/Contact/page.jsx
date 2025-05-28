@@ -37,6 +37,7 @@ const Contact = () => {
             type="button"
             onClick={HandleEmail}
             className="text-blue-500 hover:underline transition delay-100 hover:cursor-pointer"
+            suppressHydrationWarning
           >
             here
           </button>

@@ -14,9 +14,12 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata = {
-  title: "Sameer",
-  description: "Created portfolio by next-js",
-}
+  title: "Sameer | Full-Stack Developer",
+  description: "Welcome to Sameer's portfolio – a showcase of modern web development projects built using Next.js, React, and cutting-edge technologies.",
+  icons:{
+    icon : "/images/Sameer.jpg"
+  }
+};
 
 export default function RootLayout({ children }) {
   return (

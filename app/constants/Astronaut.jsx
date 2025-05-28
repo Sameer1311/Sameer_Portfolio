@@ -9,7 +9,7 @@ export function Astronaut(props) {
   const { actions } = useAnimations(animations, group);
 
   const yPosition = useMotionValue(5); // Unconditionally declared
-  const ySpring = useSpring(yPosition, { damping: 30 }); // Unconditionally declared
+  const ySpring = useSpring(yPosition, { damping: 12 }); // Unconditionally declared
 
   useEffect(() => {
     if (animations.length > 0) {

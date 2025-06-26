@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio – built with **Next.js**, **React T
 
 ## 🌐 Live Demo
 
-👉 [Visit Portfolio](https://your-live-link.com) <!-- Replace with your actual deployed URL -->
+https://sameer106.netlify.app/
 
 ---
 ## 📁 Project Structure
